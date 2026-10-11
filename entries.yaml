@@ -1070,3 +1070,13 @@
   license: Apache-2.0
   b2_integration: ""
   last_verified: 2026-09-15
+
+- name: Invokely
+  url: https://invokely.ai/
+  docs_url: https://invokely.ai/docs
+  description: Hosted MCP server and REST API for official statistics. Each figure includes its reporting period and publisher citation, with coverage across U.S. states and counties, EU countries and regions, Spanish municipalities, and World Bank countries.
+  category: tool-protocols-and-servers
+  github: ""
+  license: ""
+  b2_integration: ""
+  last_verified: 2026-10-11
